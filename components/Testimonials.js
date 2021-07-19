@@ -44,8 +44,8 @@ const Testimonials = () => {
           </div>
         </div>
         <div className={classes.column_two}>
-          <Image src={test1} className={classes.img} />
-          <Image src={test2} className={classes.img} />
+          <Image src={test1} className={classes.img} alt="portrait picture" />
+          <Image src={test2} className={classes.img} alt="portrait picture" />
         </div>
       </div>
     </div>
